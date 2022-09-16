@@ -1,4 +1,4 @@
-# sarahbinday.github.io
+# Sarah Binday
 
 ![Profile Pic](https://github.com/sarahbinday/sarahbinday.github.io/blob/main/1609876080956.jpg?raw=true)
 
