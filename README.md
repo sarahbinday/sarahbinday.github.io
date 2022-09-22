@@ -8,4 +8,4 @@ My name is [Sarah Binday](https://www.linkedin.com/in/sarah-binday/) and I am a 
 ## Undergraduate Enrollment at Lehigh University Fall 2021 Infographic 
 
 
-![Undergraduate Enrollment at Lehigh University](https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Undergraduate%20Enrollment%20at%20Lehigh%20University.png?raw=true)![Undergraduate Enrollment at Lehigh University](https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Undergraduate%20Enrollment%20at%20Lehigh%20University.png?raw=true){height="36px" width="36px"}
+![Undergraduate Enrollment at Lehigh University](https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Undergraduate%20Enrollment%20at%20Lehigh%20University.png?raw=true){height="36px" width="36px"}
