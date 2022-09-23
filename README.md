@@ -13,4 +13,4 @@ Below is an infographic made using Canva representing data collected by Lehigh U
 ## Northampton County Registered Voters by Age Demographic
 Below is an infographic made using Canva representing data collected by the [Pennsylvania Department of State](https://www.dos.pa.gov/VotingElections/OtherServicesEvents/VotingElectionStatistics/Pages/VotingElectionStatistics.aspx) under voting registration statistics by county. This data was collected in an Excel spreadsheet that is updated weekly to represent up-to-date data.
 
-<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Undergraduate%20Enrollment%20at%20Lehigh%20University.png?raw=true" width="400"/>
+<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Northampton%20County%20Registered%20Voters%20by%20Age%20Demographic.png?raw=true" width="400"/>
