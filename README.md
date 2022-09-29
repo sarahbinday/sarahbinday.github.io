@@ -14,3 +14,6 @@ Below is an infographic made using Canva representing data collected by Lehigh U
 Below is an infographic made using Canva representing data collected by the [Pennsylvania Department of State](https://www.dos.pa.gov/VotingElections/OtherServicesEvents/VotingElectionStatistics/Pages/VotingElectionStatistics.aspx) under voting registration statistics by county. This data was collected in an Excel spreadsheet that is updated weekly to represent up-to-date data.
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Northampton%20County%20Registered%20Voters%20by%20Age%20Demographic.png?raw=true" width="400"/>
+
+## Lehigh-Lafayette Rivalry Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lmoI0GzHQQR2b1YsOgcNK7NIX48HL6nbCOw7J8LWlv8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
