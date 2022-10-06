@@ -26,3 +26,4 @@ Below is an infographic made using Canva representing data collected by the [Pen
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/LehighEnrollment.png?raw=true" width="400"/>
 
 ## Social Media Platform Usage by Year
+<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/SocialMediaData.png?raw=true" width="400"/>
