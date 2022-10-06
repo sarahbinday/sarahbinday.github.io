@@ -25,3 +25,4 @@ Below is an infographic made using Canva representing data collected by the [Pen
 ## Lehigh University Undergraduate Enrollment by College 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/LehighEnrollment.png?raw=true" width="400"/>
 
+## Social Media Platform Usage by Year
