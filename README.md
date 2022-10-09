@@ -26,4 +26,5 @@ Below is an infographic made using Canva representing data collected by the [Pen
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/LehighEnrollment.png?raw=true" width="600"/>
 
 ## Social Media Platform Usage by Year
+Below is a chart made using Chartbuilder representing data collected by Business of Apps. This data follows the usage of Instagram, Snapchat and Facebook from 2014 to 2021, and the chart is a visual representation of this data. 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/SocialMediaData.png?raw=true" width="600"/>
