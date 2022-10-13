@@ -29,3 +29,7 @@ Below is an infographic made using Canva representing data collected by the [Pen
 Below is a chart made using Chartbuilder representing data collected by Business of Apps. This data follows the usage of Instagram, Snapchat and Facebook from 2014 to 2021, and the chart is a visual representation of this data. 
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/SocialMediaData.png?raw=true" width="600"/>
+
+## Changes in Percentage of Enrollment in Lehigh University's 3 Colleges 
+
+<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/enrollment%20percentages.png?raw=true" width="600"/>
