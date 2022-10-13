@@ -33,3 +33,8 @@ Below is a chart made using Chartbuilder representing data collected by Business
 ## Changes in Percentage of Enrollment in Lehigh University's 3 Colleges 
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/enrollment%20percentages.png?raw=true" width="600"/>
+
+## Self-Reported Life Satisfaction & GDP Per Capita 
+
+<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Self-Reported_Life_Satisfaction_&_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true" width="600"/>
+
