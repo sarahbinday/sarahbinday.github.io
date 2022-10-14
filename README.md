@@ -33,6 +33,7 @@ Below is a chart made using Chartbuilder representing data collected by Business
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/SocialMediaData.png?raw=true" width="600"/>
 
 ## Changes in Percentage of Enrollment in Lehigh University's 3 Colleges 
+Below is a chart made using Chartbuilder representing data collected by [Lehigh University's yearly Profile](https://oirsa.lehigh.edu/university-profile) from 2018 through 2022. This chart depicts the changes in enrollment percentages between Lehigh University's 3 colleges. While the data changes each year, the College of Arts and Sciences consistently has the highest level of enrollment, followed by the College of Engineering, followed by the College of Business. 
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/enrollment%20percentages.png?raw=true" width="600"/>
 
