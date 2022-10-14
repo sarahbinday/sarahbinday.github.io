@@ -42,7 +42,7 @@ Below is a chart made using Chartbuilder representing data collected by [Lehigh 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/enrollment%20percentages.png?raw=true" width="600"/>
 
 ## Self-Reported Life Satisfaction & GDP Per Capita 
-Below is a chart made using Chartbuilder representing data collected by World Bank regarding both the GDP Per Capita (keeping constant 2011 international dollars) in addition to the Self-Reported Life Satisfaction in Cantril Ladder. These findings show that there is a correlation pattern between GDP Per Capita increases and Self-Reported Life Satisfaction increases. 
+Below is a chart made using Chartbuilder representing data collected by [World Bank](https://ourworldindata.org/happiness-and-life-satisfaction) regarding both the GDP Per Capita (keeping constant 2011 international dollars) in addition to the Self-Reported Life Satisfaction in Cantril Ladder. These findings show that there is a correlation pattern between GDP Per Capita increases and Self-Reported Life Satisfaction increases. 
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Self-Reported_Life_Satisfaction_&_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true" width="600"/>
 
