@@ -23,10 +23,12 @@ Below is an infographic made using Canva representing data collected by the [Pen
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rUESTJn8p6yk0b7BM-DZLcUNUhUdgHlTDf54C5avxsw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 ## Lehigh University Undergraduate Enrollment by College 
+Below is a chart made using Chartbuilder representing data collected in [Lehigh University's 2021 Fall Profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). This chart shows the 2021 Lehigh University enrollment by college, from highest enrollment to lowest. I found that the College of Arts and Sciences had the highest enrollment, at 37.9%, followed by the College of Engineering and Applied Sciences, with 24.8%. 
+
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/LehighEnrollment.png?raw=true" width="600"/>
 
 ## Social Media Platform Usage by Year
-Below is a chart made using Chartbuilder representing data collected by Business of Apps. This data follows the usage of Instagram, Snapchat and Facebook from 2014 to 2021, and the chart is a visual representation of this data. 
+Below is a chart made using Chartbuilder representing data collected by Business of Apps following the usage of [Instagram](https://www.businessofapps.com/data/instagram-statistics/), [Snapchat](https://www.businessofapps.com/data/snapchat-statistics/) and [Facebook](https://www.businessofapps.com/data/facebook-statistics/) from 2014 to 2021. This chart is a visual representation of the data. On the X-axis of this chart are the years these platforms have been operating, while on the Y-axis are the annual platforms users, represented in millions. This chart shows that Facebook started with the greatest amount of users and has steadily been increasing each year, while Instagram and Snapchat take second and third place. From this data, one can also see that Facebook and Instagram have had steady growth, while Snapchat hasn't had the same performance. 
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/SocialMediaData.png?raw=true" width="600"/>
 
