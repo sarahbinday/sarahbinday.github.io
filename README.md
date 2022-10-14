@@ -17,9 +17,13 @@ Below is an infographic made using Canva representing data collected by the [Pen
 
 
 ## Lehigh-Lafayette Rivalry Timeline
+The timeline below depicts some of the most iconic moments in the Lehigh-Lafayette Rivalry, from the beginning in 1882 through the present day. The Lehigh-Lafayette Rivalry was uninterrupted for 124 years straight, but was put on pause for the COVID-19 pandemic in 2020. The 156th Rivalry game was eventually played on April 10, 2021, and will hopefully continue for another 124 uninterrupted years.  
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lmoI0GzHQQR2b1YsOgcNK7NIX48HL6nbCOw7J8LWlv8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 ## Timeline of the Patriot League 
+The timeline below depicts a timeline of the history of the Patriot League. 
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rUESTJn8p6yk0b7BM-DZLcUNUhUdgHlTDf54C5avxsw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 ## Lehigh University Undergraduate Enrollment by College 
