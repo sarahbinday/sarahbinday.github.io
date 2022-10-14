@@ -46,3 +46,6 @@ Below is a chart made using Chartbuilder representing data collected by [World B
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Self-Reported_Life_Satisfaction_&_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true" width="600"/>
 
+## Mets Batting Average on Balls in Play and Plate Appearances
+
+<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/MetsMLB.png?raw=true" width="600"/>
