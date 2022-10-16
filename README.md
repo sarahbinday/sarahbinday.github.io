@@ -49,4 +49,4 @@ Below is a chart made using Chartbuilder representing data collected by [World B
 ## MLB Batting Average on Balls in Play and Plate Appearances
 Below is a scatter plot made using Chartbuilder representing data collected by the [MLB](https://www.mlb.com/mets/stats/team) regarding the batting average on balls in play and plate appearances. As one can generally see from this scatter plot, with more plate appearances, MLB teams are more likely to have a higher batting average on balls in play.  
 
-<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/MetsMLB.png?raw=true" width="600"/>
+<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/MLB_Batting_Average_on_Balls_In_Play_&_Plate_Appearances__Batting_Average_on_Balls_In_Play_chartbuilder.png?raw=true" width="600"/>
