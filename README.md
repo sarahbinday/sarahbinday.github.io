@@ -51,4 +51,14 @@ Below is a scatter plot made using Chartbuilder representing data collected by t
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/MLB_Batting_Average_on_Balls_In_Play_&_Plate_Appearances__Batting_Average_on_Balls_In_Play_chartbuilder.png?raw=true" width="600"/>
 
+## Mapping using Google My Maps
+
+# World's Top 20 Cycling Cities (2019)
+The map below was created using Google My Maps to show a visual representation of [Wired's 2019 Top 20 Cycling Cities](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/). In terms of countries, France leads with three cities in the top 20, followed by Germany, the Netherlands and Canada, each with two respectively. Other countries represented in the top 20 include Denmark, Belgium, Austria, Finland, Colombia, Spain, Slovenia, Japan and Taiwan. 
+
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1sZwF5uUMKdVaaMITxVu01YmhkJNlLsw&ehbc=2E312F" width="640" height="480"></iframe>
+
+# Top 10 Best National Parks in the World 
+The map below was created using Google My Maps to show a visual representation of [U.S. News Travel's Top 10 Best National Parks in the World](https://travel.usnews.com/rankings/best-national-parks-in-the-world/). The United States is represented in the top 10 with six national parks, followed by Canada with two and Chile and Tanzania with one, respectively. 
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1DIUoO1XGc2Q4dxMsRNdiGPGCNi8PEp4&ehbc=2E312F" width="640" height="480"></iframe> 
