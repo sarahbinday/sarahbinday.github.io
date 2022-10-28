@@ -5,6 +5,7 @@
 ## Biography
 My name is [Sarah Binday](https://www.linkedin.com/in/sarah-binday/) and I am a junior at Lehigh University studying Journalism and Marketing from New York City. On campus, I am involved with the Women's Network, the Brown and White Newspaper and the Mentor Collective. I am currently using Github for Journalism 25, Data Journalism. 
 
+
 # Infographics
 
 ## Undergraduate Enrollment at Lehigh University Fall 2021 Infographic 
@@ -17,6 +18,7 @@ Below is an infographic made using Canva representing data collected by the [Pen
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Northampton%20County%20Registered%20Voters%20by%20Age%20Demographic.png?raw=true" width="400"/>
 
+
 # Timelines
 
 ## Lehigh-Lafayette Rivalry Timeline
@@ -28,6 +30,7 @@ The timeline below depicts some of the most iconic moments in the Lehigh-Lafayet
 For my timeline project I chose to focus on the history of the Patriot League. The Patriot League is a Division I collegiate athletic conference that began in 1986 with six charter members, Holy Cross, Lehigh, Bucknell, Colgate, Lafayette and Davidson. At it's start, however, the Patriot League was called the Colonial League. Davidson left the Colonial League two years later in 1988 and is now in the Atlantic 10 conference. The Colonial League officially changed its name to the Patriot League in 1990. In 1991, the Patriot League became an all-sport conference. By the end of the 1991 academic year, the Patriot League had eight members: Holy Cross, Lehigh, Bucknell, Colgate, Lafayette, Fordham, United States Military Academy (Army), United States Naval Academy (Navy). Fordham left the Patriot League four years later in 1995, but remained as an associate member for football. In 2001, American University joined the Patriot League, and Georgetown joined as an associate member for football. In 2013, Boston University and Loyola University Maryland joined the Patriot League. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rUESTJn8p6yk0b7BM-DZLcUNUhUdgHlTDf54C5avxsw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+
 
 # Charts and Graphs
 
@@ -56,6 +59,7 @@ Below is a scatter plot made using Chartbuilder representing data collected by t
 
 <img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/MLB_Batting_Average_on_Balls_In_Play_&_Plate_Appearances__Batting_Average_on_Balls_In_Play_chartbuilder.png?raw=true" width="600"/>
 
+
 # Mapping
 
 ## World's Top 20 Cycling Cities (2019)
@@ -67,6 +71,7 @@ The map below was created using Google My Maps to show a visual representation o
 The map below was created using Google My Maps to show a visual representation of [U.S. News Travel's Top 10 Best National Parks in the World](https://travel.usnews.com/rankings/best-national-parks-in-the-world/). The United States is represented in the top 10 with six national parks, followed by Canada with two and Chile and Tanzania with one, respectively. 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1DIUoO1XGc2Q4dxMsRNdiGPGCNi8PEp4&ehbc=2E312F" width="640" height="480"></iframe> 
+
 
 # Tableau
 
