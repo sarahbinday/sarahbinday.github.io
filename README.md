@@ -21,6 +21,7 @@ Below is an infographic made using Canva representing data collected by the [Pen
 
 # Timelines
 
+
 ## Lehigh-Lafayette Rivalry Timeline
 The timeline below depicts some of the most iconic moments in the Lehigh-Lafayette Rivalry, from the beginning in 1882 through the present day. The Lehigh-Lafayette Rivalry was uninterrupted for 124 years straight, but was put on pause for the COVID-19 pandemic in 2020. The 156th Rivalry game was eventually played on April 10, 2021, and will hopefully continue for another 124 uninterrupted years.  
 
@@ -33,6 +34,7 @@ For my timeline project I chose to focus on the history of the Patriot League. T
 
 
 # Charts and Graphs
+
 
 ## Lehigh University Undergraduate Enrollment by College 
 Below is a chart made using Chartbuilder representing data collected in [Lehigh University's 2021 Fall Profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). This chart shows the 2021 Lehigh University enrollment by college, from highest enrollment to lowest. I found that the College of Arts and Sciences had the highest enrollment, at 37.9%, followed by the College of Engineering and Applied Sciences, with 24.8%. 
@@ -62,6 +64,7 @@ Below is a scatter plot made using Chartbuilder representing data collected by t
 
 # Mapping
 
+
 ## World's Top 20 Cycling Cities (2019)
 The map below was created using Google My Maps to show a visual representation of [Wired's 2019 Top 20 Cycling Cities](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/). In terms of countries, France leads with three cities in the top 20, followed by Germany, the Netherlands and Canada, each with two respectively. Other countries represented in the top 20 include Denmark, Belgium, Austria, Finland, Colombia, Spain, Slovenia, Japan and Taiwan. 
 
@@ -74,6 +77,7 @@ The map below was created using Google My Maps to show a visual representation o
 
 
 # Tableau
+
 
 ## Lehigh Party Location Survey
 The visualizations below were created using Tableau and [data collected in 2016](https://docs.google.com/spreadsheets/d/1M3fvI1f7l4QP_zvlo5YA405N-6oZXp8SA1btxvsUyeI/edit) by prior Journalism 25, Data Journalism, students. The data collected polled Lehigh University students regarding their class year and campus affiliated groups and their party preferences, such as location, how they get to parties, which party locations they prefer and which parties they're most likely to attend. In the data below, one can see that female students tend to prefer off-campus parties while male students tend to prefer fraternity house parties. Additionally, students involved in Greek fraternities and sororities tend to prefer fraternity house parties while varsity athletes tend to prefer off-campus parties. 
