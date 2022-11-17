@@ -97,4 +97,4 @@ The story compiled of three data visualizations below were created using Tableau
 ## Three Panel Comic: Introducing Me!
 The three panel comic depicted below was created using the Pixton App. I created an avatar depicting myself, and created a semi-fictional comic.
 
-<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.12.08%20AM.png?raw=true" width="600"/>
+<img src="https://github.com/sarahbinday/sarahbinday.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.12.08%20AM.png?raw=true" 
